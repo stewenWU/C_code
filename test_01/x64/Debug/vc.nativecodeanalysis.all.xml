@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\C语言代码\test_01\</FILEPATH>
+      <FILENAME>01.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>大小不匹配: 已将“unsigned __int64”作为 _Param_(2) 传递，但需要使用“int”来调用“printf”。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
