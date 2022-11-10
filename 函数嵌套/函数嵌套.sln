@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数嵌套", "函数嵌套\函数嵌套.vcxproj", "{C65DB038-28BE-4F3C-9700-65A3940F3A92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C65DB038-28BE-4F3C-9700-65A3940F3A92}.Debug|x64.ActiveCfg = Debug|x64
+		{C65DB038-28BE-4F3C-9700-65A3940F3A92}.Debug|x64.Build.0 = Debug|x64
+		{C65DB038-28BE-4F3C-9700-65A3940F3A92}.Debug|x86.ActiveCfg = Debug|Win32
+		{C65DB038-28BE-4F3C-9700-65A3940F3A92}.Debug|x86.Build.0 = Debug|Win32
+		{C65DB038-28BE-4F3C-9700-65A3940F3A92}.Release|x64.ActiveCfg = Release|x64
+		{C65DB038-28BE-4F3C-9700-65A3940F3A92}.Release|x64.Build.0 = Release|x64
+		{C65DB038-28BE-4F3C-9700-65A3940F3A92}.Release|x86.ActiveCfg = Release|Win32
+		{C65DB038-28BE-4F3C-9700-65A3940F3A92}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE1381B6-9F19-4EC6-ABDE-9A191B949E3E}
+	EndGlobalSection
+EndGlobal
