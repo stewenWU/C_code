@@ -1,0 +1,3 @@
+﻿  Hanoi .cpp
+D:\C语言代码\recurse\recurse\Hanoi .cpp(3,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  recurse.vcxproj -> D:\C语言代码\recurse\x64\Debug\recurse.exe
