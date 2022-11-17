@@ -1,0 +1,3 @@
+﻿  指针01.cpp
+D:\C语言代码\point_01\point_01\指针01.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  point_01.vcxproj -> D:\C语言代码\point_01\x64\Debug\point_01.exe
