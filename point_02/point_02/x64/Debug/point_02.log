@@ -1,0 +1,3 @@
+﻿  reserve.cpp
+D:\C语言代码\point_02\point_02\reserve.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  point_02.vcxproj -> D:\C语言代码\point_02\x64\Debug\point_02.exe
