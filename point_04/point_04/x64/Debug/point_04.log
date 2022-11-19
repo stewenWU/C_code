@@ -1,0 +1,3 @@
+﻿  二维指针.cpp
+D:\C语言代码\point_04\point_04\二维指针.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  point_04.vcxproj -> D:\C语言代码\point_04\x64\Debug\point_04.exe
