@@ -1,0 +1,3 @@
+﻿  相乘.cpp
+D:\C语言代码\lanqiao05\lanqiao05\相乘.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  lanqiao05.vcxproj -> D:\C语言代码\lanqiao05\x64\Debug\lanqiao05.exe
